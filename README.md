@@ -4,7 +4,7 @@
 # Author: Michael Kyei Agyekum
 # Date: 2025-09-19
 # Description: Fits multiple growth models to DBH data; computes R2, AIC, RMSE, MAE; produces plots.
-# Usage: Place 'GD44_new.csv' in a 'data' folder in repo root. Run script in R (>=4.x).
+
 
 # ---- PACKAGE MANAGEMENT ----
 required_packages <- c("ggplot2", "minpack.lm", "gridExtra")
