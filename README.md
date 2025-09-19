@@ -1,6 +1,6 @@
 
 # ----
-# Stand DBH Modeling for Avicennia (French Guiana)
+# Stand DBH Modeling for Avicennia Germinans (French Guiana)
 # Author: Michael Kyei Agyekum
 # Date: 2025-09-19
 # Description: Fits multiple growth models to DBH data; computes R2, AIC, RMSE, MAE; produces plots.
