@@ -1,5 +1,5 @@
 # New-perspectives-of-mangrove-growth-dynamics-in-French-Guiana
-Fits multiple growth models to DBH data; computes R2, AIC, RMSE, MAE; produces plots.
+Fits multiple growth models to DBH and Aboveground biomass data; computes R2, AIC, RMSE, MAE; produces plots.
 This repository provides an R script for fitting multiple nonlinear growth models to Avicennia (French Guiana) tree data, computing model diagnostics (R², AIC, RMSE, MAE), and visualizing results. The script is fully reproducible and ready for collaborative ecological/statistical modeling workflows.
 Features
 
